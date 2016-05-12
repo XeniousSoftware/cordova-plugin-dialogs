@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-dialogs",
-  "version": "1.2.2-dev",
+  "name": "xenious-cordova-plugin-dialogs",
+  "version": "1.0.0",
   "description": "Cordova Notification Plugin",
   "cordova": {
     "id": "cordova-plugin-dialogs",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-dialogs"
+    "url": "https://github.com/XeniousSoftware/cordova-plugin-dialogs"
   },
   "keywords": [
     "cordova",
